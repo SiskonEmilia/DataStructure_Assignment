@@ -3,16 +3,14 @@
 #include <string>
 
 template <typename dataType>
-struct node
-{
+struct node{
     dataType data;
     node *next;
     node(dataType data, node *next = nullptr);
 };
 
 template <typename dataType>
-class stack
-{
+class stack{
   private:
     node<dataType> *head;
     unsigned size;
