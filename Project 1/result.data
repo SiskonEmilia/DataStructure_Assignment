@@ -1,0 +1,7968 @@
+Please tell me how many carriages are there.
+>Please give me numbers of those carriages and sperate them with blankspaces.
+(Direction: -----> number start from #1)
+>-----------------------------
+
+Operation 1
+	New stack created! Its number is 1
+	#580 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 2
+	#333 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 3
+	New stack created! Its number is 2
+	#447 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 4
+	#428 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 5
+	#207 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 6
+	#21 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 7
+	#87 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 8
+	New stack created! Its number is 3
+	#698 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 9
+	#94 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 10
+	New stack created! Its number is 4
+	#165 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 11
+	#159 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 12
+	New stack created! Its number is 5
+	#318 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 13
+	#144 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 14
+	New stack created! Its number is 6
+	#418 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 15
+	New stack created! Its number is 7
+	#465 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 16
+	#383 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 17
+	#384 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 18
+	New stack created! Its number is 8
+	#579 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 19
+	#197 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 20
+	#376 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 21
+	#272 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 22
+	New stack created! Its number is 9
+	#714 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 23
+	#203 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 24
+	#671 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 25
+	#117 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 26
+	#585 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 27
+	#366 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 28
+	#421 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 29
+	New stack created! Its number is 10
+	#599 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 30
+	#109 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 31
+	#401 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 32
+	#342 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 33
+	#438 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 34
+	#569 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 35
+	#386 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 36
+	New stack created! Its number is 11
+	#759 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 37
+	#684 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 38
+	#348 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 39
+	#330 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 40
+	#153 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 41
+	#528 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 42
+	#561 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 43
+	#410 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 44
+	#385 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 45
+	New stack created! Its number is 12
+	#732 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 46
+	#666 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 47
+	#174 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 48
+	#214 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 49
+	New stack created! Its number is 13
+	#769 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 50
+	#246 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 51
+	#43 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 52
+	#195 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 53
+	#177 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 54
+	#606 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 55
+	New stack created! Its number is 14
+	#770 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 56
+	#406 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 57
+	#67 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 58
+	#356 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 59
+	#525 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 60
+	#460 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 61
+	#102 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 62
+	#227 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 63
+	#103 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 64
+	#529 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 65
+	#335 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 66
+	#555 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 67
+	#518 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 68
+	#716 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 69
+	#192 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 70
+	#83 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 71
+	#236 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 72
+	#675 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 73
+	#111 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 74
+	New stack created! Its number is 15
+	#784 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 75
+	#37 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 76
+	#24 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 77
+	#3 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 78
+	#649 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 79
+	#99 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 80
+	#189 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 81
+	#163 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 82
+	#182 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 83
+	#371 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 84
+	#492 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 85
+	#467 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 86
+	#676 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 87
+	New stack created! Its number is 16
+	#715 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 88
+	#252 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 89
+	#29 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 90
+	#222 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 91
+	#662 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 92
+	#484 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 93
+	New stack created! Its number is 17
+	#751 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 94
+	#582 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 95
+	#749 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 96
+	#89 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 97
+	#173 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 98
+	#734 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 99
+	#495 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 100
+	#517 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 101
+	New stack created! Its number is 18
+	#775 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 102
+	#233 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 103
+	#51 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 104
+	#27 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 105
+	#419 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 106
+	#48 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 107
+	#683 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 108
+	#193 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 109
+	#398 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 110
+	#717 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 111
+	#731 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 112
+	#191 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 113
+	#115 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 114
+	#415 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 115
+	#594 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 116
+	#218 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 117
+	#395 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 118
+	#473 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 119
+	#33 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 120
+	#661 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 121
+	#338 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 122
+	#36 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 123
+	#490 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 124
+	#291 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 125
+	#443 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 126
+	#123 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 127
+	#312 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 128
+	#660 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 129
+	New stack created! Its number is 19
+	#787 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 130
+	#696 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 131
+	#785 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 132
+	#298 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 133
+	#248 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 134
+	#533 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 135
+	#689 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 136
+	#14 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 137
+	#737 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 138
+	#552 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 139
+	#597 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 140
+	#35 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 141
+	#145 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 142
+	#544 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 143
+	#712 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 144
+	#678 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 145
+	#433 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 146
+	#631 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 147
+	#215 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 148
+	#424 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 149
+	#435 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 150
+	#243 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 151
+	#427 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 152
+	#288 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 153
+	#55 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 154
+	#91 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 155
+	#558 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 156
+	#138 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 157
+	New stack created! Its number is 20
+	#758 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 158
+	#721 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 159
+	#425 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 160
+	#56 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 161
+	#101 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 162
+	#621 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 163
+	#659 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 164
+	#571 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 165
+	#119 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 166
+	#390 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 167
+	#548 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 168
+	#190 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 169
+	New stack created! Its number is 21
+	#681 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 170
+	New stack created! Its number is 22
+	#781 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 171
+	#188 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 172
+	#167 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 173
+	#394 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 174
+	#413 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 175
+	#498 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 176
+	#326 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 177
+	#682 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 178
+	#32 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 179
+	#379 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 180
+	#626 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 181
+	#217 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 182
+	New stack created! Its number is 23
+	#764 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 183
+	#210 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 184
+	#673 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 185
+	#572 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 186
+	#388 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 187
+	#198 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 188
+	#736 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 189
+	#496 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 190
+	New stack created! Its number is 24
+	#791 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 191
+	#184 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 192
+	#718 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 193
+	#202 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 194
+	#711 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 195
+	#205 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 196
+	#547 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 197
+	#372 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 198
+	#82 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 199
+	#499 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 200
+	#341 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 201
+	#92 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 202
+	#343 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 203
+	#93 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 204
+	#68 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 205
+	#720 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 206
+	#114 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 207
+	#72 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 208
+	#54 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 209
+	#354 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 210
+	#337 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 211
+	#539 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 212
+	#38 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 213
+	#136 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 214
+	#110 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 215
+	#15 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 216
+	#279 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 217
+	#620 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 218
+	#567 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 219
+	#700 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 220
+	#57 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 221
+	#149 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 222
+	#553 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 223
+	#596 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 224
+	#687 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 225
+	#471 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 226
+	#8 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 227
+	#242 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 228
+	#665 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 229
+	#344 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 230
+	#180 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 231
+	#303 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 232
+	#680 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 233
+	#232 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 234
+	#575 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 235
+	#608 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 236
+	#116 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 237
+	#10 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 238
+	#399 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 239
+	#637 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 240
+	#442 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 241
+	#362 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 242
+	#360 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 243
+	New stack created! Its number is 25
+	#735 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 244
+	#231 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 245
+	#201 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 246
+	#643 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 247
+	#340 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 248
+	#602 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 249
+	#670 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 250
+	#540 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 251
+	#270 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 252
+	#645 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 253
+	#507 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 254
+	New stack created! Its number is 26
+	#647 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 255
+	#381 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 256
+	New stack created! Its number is 27
+	#776 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 257
+	#142 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 258
+	#11 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 259
+	#531 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 260
+	#581 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 261
+	#514 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 262
+	New stack created! Its number is 28
+	#783 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 263
+	#578 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 264
+	#456 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 265
+	#244 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 266
+	#46 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 267
+	#135 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 268
+	#520 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 269
+	#752 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 270
+	New stack created! Its number is 29
+	#786 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 271
+	#513 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 272
+	#176 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 273
+	#614 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 274
+	#403 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 275
+	#741 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 276
+	#727 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 277
+	#179 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 278
+	#357 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 279
+	#563 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 280
+	#573 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 281
+	#630 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 282
+	#627 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 283
+	#309 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 284
+	#747 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 285
+	#703 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 286
+	#554 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 287
+	#206 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 288
+	#129 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 289
+	#113 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 290
+	#436 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 291
+	#261 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 292
+	#79 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 293
+	#441 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 294
+	#527 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 295
+	#570 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 296
+	#315 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 297
+	#600 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 298
+	#373 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 299
+	#178 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 300
+	#543 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 301
+	#292 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 302
+	#688 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 303
+	#30 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 304
+	#66 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 305
+	#18 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 306
+	#568 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 307
+	#41 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 308
+	#331 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 309
+	#761 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 310
+	#370 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 311
+	#723 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 312
+	#657 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 313
+	#477 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 314
+	#400 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 315
+	#4 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 316
+	#241 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 317
+	#437 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 318
+	#402 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 319
+	#120 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 320
+	New stack created! Its number is 30
+	#768 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 321
+	#39 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 322
+	#651 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 323
+	#728 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 324
+	#481 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 325
+	#616 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 326
+	#104 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 327
+	#166 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 328
+	#107 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 329
+	#491 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 330
+	#262 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 331
+	#164 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 332
+	#701 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 333
+	#302 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 334
+	#515 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 335
+	#587 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 336
+	#506 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 337
+	#323 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 338
+	#112 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 339
+	#304 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 340
+	#542 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 341
+	#313 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 342
+	#739 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 343
+	#536 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 344
+	#664 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 345
+	#346 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 346
+	#289 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 347
+	#5 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 348
+	#679 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 349
+	#448 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 350
+	#374 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 351
+	#478 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 352
+	#607 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 353
+	#325 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 354
+	#97 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 355
+	#719 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 356
+	#266 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 357
+	New stack created! Its number is 31
+	#790 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 358
+	#742 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 359
+	#565 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 360
+	#311 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 361
+	#526 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 362
+	#257 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 363
+	#475 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 364
+	#353 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 365
+	#469 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 366
+	#409 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 367
+	#78 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 368
+	#25 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 369
+	#204 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 370
+	#487 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 371
+	#59 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 372
+	#80 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 373
+	#258 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 374
+	#574 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 375
+	#646 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 376
+	#77 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 377
+	#259 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 378
+	#156 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 379
+	#699 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 380
+	#200 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 381
+	#13 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 382
+	#186 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 383
+	New stack created! Its number is 32
+	#763 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 384
+	#512 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 385
+	#125 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 386
+	#2 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 387
+	#412 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 388
+	#669 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 389
+	#757 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 390
+	#223 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 391
+	#299 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 392
+	#365 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 393
+	#576 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 394
+	#260 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 395
+	#504 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 396
+	#562 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 397
+	#140 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 398
+	#285 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 399
+	#445 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 400
+	#560 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 401
+	#293 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 402
+	#162 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 403
+	#755 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 404
+	#508 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 405
+	#139 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 406
+	#625 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 407
+	#60 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 408
+	#146 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 409
+	#161 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 410
+	#273 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 411
+	#378 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 412
+	#648 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 413
+	#314 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 414
+	#468 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 415
+	#389 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 416
+	#530 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 417
+	#426 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 418
+	#500 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 419
+	#451 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 420
+	#69 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 421
+	#349 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 422
+	#352 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 423
+	#276 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 424
+	New stack created! Its number is 33
+	#788 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 425
+	#655 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 426
+	#653 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 427
+	#702 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 428
+	#128 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 429
+	#459 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 430
+	#168 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 431
+	#686 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 432
+	New stack created! Its number is 34
+	#778 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 433
+	#274 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 434
+	#634 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 435
+	#535 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 436
+	#457 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 437
+	#287 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 438
+	#463 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 439
+	#49 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 440
+	#271 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 441
+	#106 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 442
+	#118 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 443
+	#221 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 444
+	#439 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 445
+	#777 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 446
+	#476 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 447
+	#363 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 448
+	#592 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 449
+	#411 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 450
+	#707 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 451
+	#295 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 452
+	#355 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 453
+	#240 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 454
+	#155 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 455
+	#566 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 456
+	#187 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 457
+	#641 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 458
+	New stack created! Its number is 35
+	#750 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 459
+	#31 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 460
+	#730 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 461
+	#16 carriage was sent from the waiting queue to stack #6.
+
+-----------------------------
+
+Operation 462
+	#317 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 463
+	#124 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 464
+	#283 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 465
+	#524 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 466
+	#642 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 467
+	#26 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 468
+	#359 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 469
+	#264 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 470
+	New stack created! Its number is 36
+	#765 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 471
+	#726 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 472
+	#744 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 473
+	#449 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 474
+	#387 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 475
+	#705 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 476
+	#316 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 477
+	New stack created! Its number is 37
+	#782 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 478
+	#605 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 479
+	#300 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 480
+	#308 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 481
+	#253 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 482
+	#623 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 483
+	#321 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 484
+	#212 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 485
+	#618 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 486
+	#213 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 487
+	#432 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 488
+	#601 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 489
+	#629 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 490
+	#130 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 491
+	#583 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 492
+	#604 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 493
+	#294 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 494
+	#181 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 495
+	#767 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 496
+	#453 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 497
+	#658 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 498
+	#71 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 499
+	#126 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 500
+	#516 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 501
+	#622 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 502
+	#591 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 503
+	#211 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 504
+	#550 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 505
+	#538 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 506
+	#706 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 507
+	#40 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 508
+	#52 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 509
+	#230 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 510
+	#635 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 511
+	#685 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 512
+	#617 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 513
+	New stack created! Its number is 38
+	#710 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 514
+	#537 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 515
+	#380 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 516
+	#249 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 517
+	#420 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 518
+	#369 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 519
+	#416 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 520
+	#668 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 521
+	#275 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 522
+	#58 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 523
+	#228 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 524
+	New stack created! Its number is 39
+	#792 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 525
+	#612 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 526
+	#225 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 527
+	#265 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 528
+	#76 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 529
+	#375 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 530
+	#636 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 531
+	#196 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 532
+	#175 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 533
+	#267 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 534
+	#45 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 535
+	#624 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 536
+	#53 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 537
+	#171 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 538
+	#277 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 539
+	#633 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 540
+	#216 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 541
+	#466 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 542
+	#464 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 543
+	#586 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 544
+	#632 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 545
+	#108 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 546
+	#364 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 547
+	#96 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 548
+	#595 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 549
+	#738 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 550
+	#245 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 551
+	#62 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 552
+	#733 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 553
+	#603 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 554
+	New stack created! Its number is 40
+	#748 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 555
+	#50 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 556
+	#88 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 557
+	#150 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 558
+	#444 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 559
+	#297 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 560
+	New stack created! Its number is 41
+	#771 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 561
+	#577 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 562
+	#724 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 563
+	#98 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 564
+	#226 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 565
+	#644 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 566
+	#282 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 567
+	#73 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 568
+	#589 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 569
+	#610 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 570
+	#482 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 571
+	#86 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 572
+	#134 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 573
+	#522 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 574
+	#44 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 575
+	#556 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 576
+	#692 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 577
+	#367 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 578
+	#422 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 579
+	#766 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 580
+	#334 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 581
+	#85 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 582
+	#404 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 583
+	#332 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 584
+	#194 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 585
+	#746 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 586
+	#505 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 587
+	#307 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 588
+	#254 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 589
+	#414 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 590
+	New stack created! Its number is 42
+	#780 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 591
+	#290 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 592
+	#17 carriage was sent from the waiting queue to stack #7.
+
+-----------------------------
+
+Operation 593
+	#638 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 594
+	#84 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 595
+	#122 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 596
+	#754 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 597
+	#65 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 598
+	#650 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 599
+	#319 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 600
+	#628 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 601
+	#557 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 602
+	#462 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 603
+	#100 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 604
+	#434 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 605
+	#502 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 606
+	#472 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 607
+	#429 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 608
+	#121 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 609
+	#247 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 610
+	#509 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 611
+	#609 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 612
+	#690 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 613
+	#286 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 614
+	#704 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 615
+	#169 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 616
+	#63 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 617
+	#137 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 618
+	#541 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 619
+	#743 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 620
+	#654 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 621
+	#584 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 622
+	#183 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 623
+	#640 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 624
+	#639 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 625
+	#185 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 626
+	#158 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 627
+	#237 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 628
+	#691 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 629
+	#64 carriage was sent from the waiting queue to stack #13.
+
+-----------------------------
+
+Operation 630
+	#74 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 631
+	#70 carriage was sent from the waiting queue to stack #14.
+
+-----------------------------
+
+Operation 632
+	#725 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 633
+	#708 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 634
+	#224 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 635
+	#199 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 636
+	#486 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 637
+	#263 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 638
+	#519 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 639
+	#446 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 640
+	#133 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 641
+	#296 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 642
+	#22 carriage was sent from the waiting queue to stack #8.
+
+-----------------------------
+
+Operation 643
+	#278 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 644
+	#12 carriage was sent from the waiting queue to stack #5.
+
+-----------------------------
+
+Operation 645
+	#397 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 646
+	#284 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 647
+	#358 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 648
+	#559 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 649
+	#23 carriage was sent from the waiting queue to stack #9.
+
+-----------------------------
+
+Operation 650
+	#95 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 651
+	#474 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 652
+	#220 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 653
+	#141 carriage was sent from the waiting queue to stack #19.
+
+-----------------------------
+
+Operation 654
+	#7 carriage was sent from the waiting queue to stack #4.
+
+-----------------------------
+
+Operation 655
+	New stack created! Its number is 43
+	#772 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 656
+	#510 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 657
+	#590 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 658
+	#351 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 659
+	#663 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 660
+	#762 carriage was sent from the waiting queue to stack #43.
+
+-----------------------------
+
+Operation 661
+	#382 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 662
+	#417 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 663
+	#740 carriage was sent from the waiting queue to stack #43.
+
+-----------------------------
+
+Operation 664
+	#674 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 665
+	#339 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 666
+	#28 carriage was sent from the waiting queue to stack #10.
+
+-----------------------------
+
+Operation 667
+	#546 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 668
+	#493 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 669
+	#154 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 670
+	#396 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 671
+	#455 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 672
+	#677 carriage was sent from the waiting queue to stack #43.
+
+-----------------------------
+
+Operation 673
+	#255 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 674
+	#534 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 675
+	#1 carriage was sent from waiting queue dirctly to the result queue.
+
+-----------------------------
+
+Operation 676
+	#2 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 677
+	#3 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 678
+	#4 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 679
+	#5 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 680
+	#361 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 681
+	#619 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 682
+	New stack created! Its number is 44
+	#745 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 683
+	#9 carriage was sent from the waiting queue to stack #3.
+
+-----------------------------
+
+Operation 684
+	#588 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 685
+	#160 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 686
+	#391 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 687
+	#722 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 688
+	#483 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 689
+	#615 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 690
+	#208 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 691
+	#324 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 692
+	#132 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 693
+	#239 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 694
+	#392 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 695
+	#310 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 696
+	#105 carriage was sent from the waiting queue to stack #17.
+
+-----------------------------
+
+Operation 697
+	#250 carriage was sent from the waiting queue to stack #26.
+
+-----------------------------
+
+Operation 698
+	#593 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 699
+	#6 carriage was sent from waiting queue dirctly to the result queue.
+
+-----------------------------
+
+Operation 700
+	#7 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 701
+	#8 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 702
+	#9 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 703
+	#10 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 704
+	#11 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 705
+	#12 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 706
+	#13 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 707
+	#14 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 708
+	#15 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 709
+	#16 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 710
+	#17 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 711
+	#18 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 712
+	#479 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 713
+	#672 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 714
+	New stack created! Its number is 45
+	#774 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 715
+	#430 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 716
+	#551 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 717
+	#485 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 718
+	New stack created! Its number is 46
+	#779 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 719
+	#753 carriage was sent from the waiting queue to stack #45.
+
+-----------------------------
+
+Operation 720
+	#709 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 721
+	#157 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 722
+	#405 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 723
+	#511 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 724
+	#697 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 725
+	#229 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 726
+	#611 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 727
+	#238 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 728
+	#564 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 729
+	#251 carriage was sent from the waiting queue to stack #27.
+
+-----------------------------
+
+Operation 730
+	New stack created! Its number is 47
+	#793 carriage was sent to this new stack.
+
+-----------------------------
+
+Operation 731
+	#147 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 732
+	#20 carriage was sent from the waiting queue to stack #1.
+
+-----------------------------
+
+Operation 733
+	#598 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 734
+	#729 carriage was sent from the waiting queue to stack #45.
+
+-----------------------------
+
+Operation 735
+	#789 carriage was sent from the waiting queue to stack #47.
+
+-----------------------------
+
+Operation 736
+	#90 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 737
+	#256 carriage was sent from the waiting queue to stack #28.
+
+-----------------------------
+
+Operation 738
+	#281 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 739
+	#494 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 740
+	#549 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 741
+	#470 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 742
+	#127 carriage was sent from the waiting queue to stack #18.
+
+-----------------------------
+
+Operation 743
+	#143 carriage was sent from the waiting queue to stack #20.
+
+-----------------------------
+
+Operation 744
+	#322 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 745
+	#407 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 746
+	#235 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 747
+	#75 carriage was sent from the waiting queue to stack #15.
+
+-----------------------------
+
+Operation 748
+	#152 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 749
+	#268 carriage was sent from the waiting queue to stack #29.
+
+-----------------------------
+
+Operation 750
+	#695 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 751
+	#450 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 752
+	#209 carriage was sent from the waiting queue to stack #24.
+
+-----------------------------
+
+Operation 753
+	#760 carriage was sent from the waiting queue to stack #46.
+
+-----------------------------
+
+Operation 754
+	#521 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 755
+	#42 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 756
+	#431 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 757
+	#756 carriage was sent from the waiting queue to stack #46.
+
+-----------------------------
+
+Operation 758
+	#148 carriage was sent from the waiting queue to stack #21.
+
+-----------------------------
+
+Operation 759
+	#461 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 760
+	#234 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 761
+	#503 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 762
+	#454 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 763
+	#652 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 764
+	#329 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 765
+	#327 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 766
+	#336 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 767
+	#320 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 768
+	#219 carriage was sent from the waiting queue to stack #25.
+
+-----------------------------
+
+Operation 769
+	#61 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 770
+	#347 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 771
+	#170 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 772
+	#613 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 773
+	#480 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 774
+	#532 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 775
+	#151 carriage was sent from the waiting queue to stack #22.
+
+-----------------------------
+
+Operation 776
+	#34 carriage was sent from the waiting queue to stack #11.
+
+-----------------------------
+
+Operation 777
+	#393 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 778
+	#458 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 779
+	#773 carriage was sent from the waiting queue to stack #47.
+
+-----------------------------
+
+Operation 780
+	#172 carriage was sent from the waiting queue to stack #23.
+
+-----------------------------
+
+Operation 781
+	#377 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 782
+	#440 carriage was sent from the waiting queue to stack #37.
+
+-----------------------------
+
+Operation 783
+	#47 carriage was sent from the waiting queue to stack #12.
+
+-----------------------------
+
+Operation 784
+	#694 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 785
+	#523 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 786
+	#81 carriage was sent from the waiting queue to stack #16.
+
+-----------------------------
+
+Operation 787
+	#452 carriage was sent from the waiting queue to stack #38.
+
+-----------------------------
+
+Operation 788
+	#19 carriage was sent from waiting queue dirctly to the result queue.
+
+-----------------------------
+
+Operation 789
+	#20 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 790
+	#21 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 791
+	#22 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 792
+	#23 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 793
+	#24 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 794
+	#25 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 795
+	#26 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 796
+	#27 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 797
+	#28 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 798
+	#29 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 799
+	#30 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 800
+	#31 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 801
+	#32 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 802
+	#33 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 803
+	#34 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 804
+	#35 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 805
+	#36 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 806
+	#37 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 807
+	#38 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 808
+	#39 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 809
+	#40 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 810
+	#41 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 811
+	#42 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 812
+	#43 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 813
+	#44 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 814
+	#45 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 815
+	#46 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 816
+	#47 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 817
+	#48 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 818
+	#49 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 819
+	#50 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 820
+	#51 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 821
+	#52 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 822
+	#53 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 823
+	#54 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 824
+	#55 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 825
+	#56 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 826
+	#57 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 827
+	#58 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 828
+	#59 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 829
+	#60 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 830
+	#61 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 831
+	#62 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 832
+	#63 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 833
+	#64 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 834
+	#65 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 835
+	#66 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 836
+	#67 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 837
+	#68 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 838
+	#69 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 839
+	#70 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 840
+	#71 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 841
+	#72 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 842
+	#73 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 843
+	#74 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 844
+	#75 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 845
+	#76 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 846
+	#77 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 847
+	#78 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 848
+	#79 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 849
+	#80 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 850
+	#81 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 851
+	#82 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 852
+	#83 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 853
+	#84 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 854
+	#85 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 855
+	#86 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 856
+	#87 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 857
+	#88 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 858
+	#89 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 859
+	#90 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 860
+	#91 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 861
+	#92 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 862
+	#93 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 863
+	#94 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 864
+	#95 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 865
+	#96 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 866
+	#97 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 867
+	#98 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 868
+	#99 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 869
+	#100 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 870
+	#101 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 871
+	#102 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 872
+	#103 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 873
+	#104 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 874
+	#105 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 875
+	#106 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 876
+	#107 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 877
+	#108 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 878
+	#109 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 879
+	#110 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 880
+	#111 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 881
+	#112 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 882
+	#113 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 883
+	#114 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 884
+	#115 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 885
+	#116 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 886
+	#117 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 887
+	#118 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 888
+	#119 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 889
+	#120 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 890
+	#121 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 891
+	#122 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 892
+	#123 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 893
+	#124 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 894
+	#125 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 895
+	#126 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 896
+	#127 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 897
+	#128 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 898
+	#129 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 899
+	#130 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 900
+	#656 carriage was sent from the waiting queue to stack #42.
+
+-----------------------------
+
+Operation 901
+	#423 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 902
+	#497 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 903
+	#280 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 904
+	#545 carriage was sent from the waiting queue to stack #41.
+
+-----------------------------
+
+Operation 905
+	#350 carriage was sent from the waiting queue to stack #35.
+
+-----------------------------
+
+Operation 906
+	#328 carriage was sent from the waiting queue to stack #33.
+
+-----------------------------
+
+Operation 907
+	#345 carriage was sent from the waiting queue to stack #34.
+
+-----------------------------
+
+Operation 908
+	#305 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 909
+	#667 carriage was sent from the waiting queue to stack #43.
+
+-----------------------------
+
+Operation 910
+	#501 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 911
+	#301 carriage was sent from the waiting queue to stack #31.
+
+-----------------------------
+
+Operation 912
+	#306 carriage was sent from the waiting queue to stack #32.
+
+-----------------------------
+
+Operation 913
+	#713 carriage was sent from the waiting queue to stack #45.
+
+-----------------------------
+
+Operation 914
+	#368 carriage was sent from the waiting queue to stack #2.
+
+-----------------------------
+
+Operation 915
+	#693 carriage was sent from the waiting queue to stack #44.
+
+-----------------------------
+
+Operation 916
+	#488 carriage was sent from the waiting queue to stack #39.
+
+-----------------------------
+
+Operation 917
+	#489 carriage was sent from the waiting queue to stack #40.
+
+-----------------------------
+
+Operation 918
+	#269 carriage was sent from the waiting queue to stack #30.
+
+-----------------------------
+
+Operation 919
+	#408 carriage was sent from the waiting queue to stack #36.
+
+-----------------------------
+
+Operation 920
+	#131 carriage was sent from waiting queue dirctly to the result queue.
+
+-----------------------------
+
+Operation 921
+	#132 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 922
+	#133 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 923
+	#134 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 924
+	#135 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 925
+	#136 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 926
+	#137 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 927
+	#138 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 928
+	#139 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 929
+	#140 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 930
+	#141 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 931
+	#142 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 932
+	#143 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 933
+	#144 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 934
+	#145 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 935
+	#146 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 936
+	#147 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 937
+	#148 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 938
+	#149 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 939
+	#150 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 940
+	#151 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 941
+	#152 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 942
+	#153 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 943
+	#154 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 944
+	#155 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 945
+	#156 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 946
+	#157 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 947
+	#158 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 948
+	#159 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 949
+	#160 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 950
+	#161 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 951
+	#162 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 952
+	#163 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 953
+	#164 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 954
+	#165 carriage was sent to the result queue from stack #4.
+
+-----------------------------
+
+Operation 955
+	#166 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 956
+	#167 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 957
+	#168 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 958
+	#169 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 959
+	#170 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 960
+	#171 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 961
+	#172 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 962
+	#173 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 963
+	#174 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 964
+	#175 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 965
+	#176 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 966
+	#177 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 967
+	#178 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 968
+	#179 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 969
+	#180 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 970
+	#181 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 971
+	#182 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 972
+	#183 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 973
+	#184 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 974
+	#185 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 975
+	#186 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 976
+	#187 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 977
+	#188 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 978
+	#189 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 979
+	#190 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 980
+	#191 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 981
+	#192 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 982
+	#193 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 983
+	#194 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 984
+	#195 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 985
+	#196 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 986
+	#197 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 987
+	#198 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 988
+	#199 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 989
+	#200 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 990
+	#201 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 991
+	#202 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 992
+	#203 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 993
+	#204 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 994
+	#205 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 995
+	#206 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 996
+	#207 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 997
+	#208 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 998
+	#209 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 999
+	#210 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1000
+	#211 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1001
+	#212 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1002
+	#213 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1003
+	#214 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1004
+	#215 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1005
+	#216 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1006
+	#217 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1007
+	#218 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1008
+	#219 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1009
+	#220 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1010
+	#221 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1011
+	#222 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1012
+	#223 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1013
+	#224 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1014
+	#225 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1015
+	#226 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1016
+	#227 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1017
+	#228 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1018
+	#229 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1019
+	#230 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1020
+	#231 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1021
+	#232 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1022
+	#233 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1023
+	#234 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1024
+	#235 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1025
+	#236 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1026
+	#237 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1027
+	#238 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1028
+	#239 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1029
+	#240 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1030
+	#241 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1031
+	#242 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1032
+	#243 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1033
+	#244 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1034
+	#245 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1035
+	#246 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1036
+	#247 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1037
+	#248 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1038
+	#249 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1039
+	#250 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1040
+	#251 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1041
+	#252 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1042
+	#253 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1043
+	#254 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1044
+	#255 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1045
+	#256 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1046
+	#257 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1047
+	#258 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1048
+	#259 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1049
+	#260 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1050
+	#261 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1051
+	#262 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1052
+	#263 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1053
+	#264 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1054
+	#265 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1055
+	#266 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1056
+	#267 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1057
+	#268 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1058
+	#269 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1059
+	#270 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1060
+	#271 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1061
+	#272 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 1062
+	#273 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1063
+	#274 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1064
+	#275 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1065
+	#276 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1066
+	#277 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1067
+	#278 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1068
+	#279 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1069
+	#280 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1070
+	#281 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1071
+	#282 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1072
+	#283 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1073
+	#284 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1074
+	#285 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1075
+	#286 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1076
+	#287 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1077
+	#288 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1078
+	#289 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1079
+	#290 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1080
+	#291 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1081
+	#292 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1082
+	#293 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1083
+	#294 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1084
+	#295 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1085
+	#296 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1086
+	#297 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1087
+	#298 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1088
+	#299 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1089
+	#300 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1090
+	#301 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1091
+	#302 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1092
+	#303 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1093
+	#304 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1094
+	#305 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1095
+	#306 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1096
+	#307 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1097
+	#308 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1098
+	#309 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1099
+	#310 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1100
+	#311 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1101
+	#312 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1102
+	#313 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1103
+	#314 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1104
+	#315 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1105
+	#316 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1106
+	#317 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1107
+	#318 carriage was sent to the result queue from stack #5.
+
+-----------------------------
+
+Operation 1108
+	#319 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1109
+	#320 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1110
+	#321 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1111
+	#322 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1112
+	#323 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1113
+	#324 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1114
+	#325 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1115
+	#326 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1116
+	#327 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1117
+	#328 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1118
+	#329 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1119
+	#330 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1120
+	#331 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1121
+	#332 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1122
+	#333 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 1123
+	#334 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1124
+	#335 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1125
+	#336 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1126
+	#337 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1127
+	#338 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1128
+	#339 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1129
+	#340 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1130
+	#341 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1131
+	#342 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1132
+	#343 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1133
+	#344 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1134
+	#345 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1135
+	#346 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1136
+	#347 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1137
+	#348 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1138
+	#349 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1139
+	#350 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1140
+	#351 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1141
+	#352 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1142
+	#353 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1143
+	#354 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1144
+	#355 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1145
+	#356 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1146
+	#357 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1147
+	#358 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1148
+	#359 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1149
+	#360 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1150
+	#361 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1151
+	#362 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1152
+	#363 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1153
+	#364 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1154
+	#365 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1155
+	#366 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1156
+	#367 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1157
+	#368 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 1158
+	#369 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1159
+	#370 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1160
+	#371 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1161
+	#372 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1162
+	#373 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1163
+	#374 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1164
+	#375 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1165
+	#376 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 1166
+	#377 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1167
+	#378 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1168
+	#379 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1169
+	#380 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1170
+	#381 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1171
+	#382 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1172
+	#383 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 1173
+	#384 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1174
+	#385 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1175
+	#386 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1176
+	#387 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1177
+	#388 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1178
+	#389 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1179
+	#390 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1180
+	#391 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1181
+	#392 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1182
+	#393 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1183
+	#394 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1184
+	#395 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1185
+	#396 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1186
+	#397 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1187
+	#398 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1188
+	#399 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1189
+	#400 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1190
+	#401 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1191
+	#402 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1192
+	#403 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1193
+	#404 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1194
+	#405 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1195
+	#406 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1196
+	#407 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1197
+	#408 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1198
+	#409 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1199
+	#410 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1200
+	#411 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1201
+	#412 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1202
+	#413 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1203
+	#414 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1204
+	#415 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1205
+	#416 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1206
+	#417 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1207
+	#418 carriage was sent to the result queue from stack #6.
+
+-----------------------------
+
+Operation 1208
+	#419 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1209
+	#420 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1210
+	#421 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1211
+	#422 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1212
+	#423 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 1213
+	#424 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1214
+	#425 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1215
+	#426 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1216
+	#427 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1217
+	#428 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 1218
+	#429 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1219
+	#430 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1220
+	#431 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1221
+	#432 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1222
+	#433 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1223
+	#434 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1224
+	#435 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1225
+	#436 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1226
+	#437 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1227
+	#438 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1228
+	#439 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1229
+	#440 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1230
+	#441 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1231
+	#442 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1232
+	#443 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1233
+	#444 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1234
+	#445 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1235
+	#446 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1236
+	#447 carriage was sent to the result queue from stack #2.
+
+-----------------------------
+
+Operation 1237
+	#448 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1238
+	#449 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1239
+	#450 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1240
+	#451 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1241
+	#452 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1242
+	#453 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1243
+	#454 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1244
+	#455 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1245
+	#456 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1246
+	#457 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1247
+	#458 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1248
+	#459 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1249
+	#460 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1250
+	#461 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1251
+	#462 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1252
+	#463 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1253
+	#464 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1254
+	#465 carriage was sent to the result queue from stack #7.
+
+-----------------------------
+
+Operation 1255
+	#466 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1256
+	#467 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1257
+	#468 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1258
+	#469 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1259
+	#470 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1260
+	#471 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1261
+	#472 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1262
+	#473 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1263
+	#474 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1264
+	#475 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1265
+	#476 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1266
+	#477 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1267
+	#478 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1268
+	#479 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1269
+	#480 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1270
+	#481 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1271
+	#482 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1272
+	#483 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1273
+	#484 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1274
+	#485 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1275
+	#486 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1276
+	#487 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1277
+	#488 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1278
+	#489 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1279
+	#490 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1280
+	#491 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1281
+	#492 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1282
+	#493 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1283
+	#494 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1284
+	#495 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1285
+	#496 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1286
+	#497 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1287
+	#498 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1288
+	#499 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1289
+	#500 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1290
+	#501 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1291
+	#502 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1292
+	#503 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1293
+	#504 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1294
+	#505 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1295
+	#506 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1296
+	#507 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1297
+	#508 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1298
+	#509 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1299
+	#510 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1300
+	#511 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1301
+	#512 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1302
+	#513 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1303
+	#514 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1304
+	#515 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1305
+	#516 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1306
+	#517 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1307
+	#518 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1308
+	#519 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1309
+	#520 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1310
+	#521 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1311
+	#522 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1312
+	#523 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1313
+	#524 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1314
+	#525 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1315
+	#526 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1316
+	#527 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1317
+	#528 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1318
+	#529 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1319
+	#530 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1320
+	#531 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1321
+	#532 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1322
+	#533 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1323
+	#534 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1324
+	#535 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1325
+	#536 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1326
+	#537 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1327
+	#538 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1328
+	#539 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1329
+	#540 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1330
+	#541 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1331
+	#542 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1332
+	#543 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1333
+	#544 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1334
+	#545 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1335
+	#546 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1336
+	#547 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1337
+	#548 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1338
+	#549 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1339
+	#550 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1340
+	#551 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1341
+	#552 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1342
+	#553 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1343
+	#554 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1344
+	#555 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1345
+	#556 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1346
+	#557 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1347
+	#558 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1348
+	#559 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1349
+	#560 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1350
+	#561 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1351
+	#562 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1352
+	#563 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1353
+	#564 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1354
+	#565 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1355
+	#566 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1356
+	#567 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1357
+	#568 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1358
+	#569 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1359
+	#570 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1360
+	#571 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1361
+	#572 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1362
+	#573 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1363
+	#574 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1364
+	#575 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1365
+	#576 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1366
+	#577 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1367
+	#578 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1368
+	#579 carriage was sent to the result queue from stack #8.
+
+-----------------------------
+
+Operation 1369
+	#580 carriage was sent to the result queue from stack #1.
+
+-----------------------------
+
+Operation 1370
+	#581 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1371
+	#582 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1372
+	#583 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1373
+	#584 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1374
+	#585 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1375
+	#586 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1376
+	#587 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1377
+	#588 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1378
+	#589 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1379
+	#590 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1380
+	#591 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1381
+	#592 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1382
+	#593 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1383
+	#594 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1384
+	#595 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1385
+	#596 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1386
+	#597 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1387
+	#598 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1388
+	#599 carriage was sent to the result queue from stack #10.
+
+-----------------------------
+
+Operation 1389
+	#600 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1390
+	#601 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1391
+	#602 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1392
+	#603 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1393
+	#604 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1394
+	#605 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1395
+	#606 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1396
+	#607 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1397
+	#608 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1398
+	#609 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1399
+	#610 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1400
+	#611 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1401
+	#612 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1402
+	#613 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1403
+	#614 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1404
+	#615 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1405
+	#616 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1406
+	#617 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1407
+	#618 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1408
+	#619 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1409
+	#620 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1410
+	#621 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1411
+	#622 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1412
+	#623 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1413
+	#624 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1414
+	#625 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1415
+	#626 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1416
+	#627 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1417
+	#628 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1418
+	#629 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1419
+	#630 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1420
+	#631 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1421
+	#632 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1422
+	#633 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1423
+	#634 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1424
+	#635 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1425
+	#636 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1426
+	#637 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1427
+	#638 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1428
+	#639 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1429
+	#640 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1430
+	#641 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1431
+	#642 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1432
+	#643 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1433
+	#644 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1434
+	#645 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1435
+	#646 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1436
+	#647 carriage was sent to the result queue from stack #26.
+
+-----------------------------
+
+Operation 1437
+	#648 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1438
+	#649 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1439
+	#650 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1440
+	#651 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1441
+	#652 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1442
+	#653 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1443
+	#654 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1444
+	#655 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1445
+	#656 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1446
+	#657 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1447
+	#658 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1448
+	#659 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1449
+	#660 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1450
+	#661 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1451
+	#662 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1452
+	#663 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1453
+	#664 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1454
+	#665 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1455
+	#666 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1456
+	#667 carriage was sent to the result queue from stack #43.
+
+-----------------------------
+
+Operation 1457
+	#668 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1458
+	#669 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1459
+	#670 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1460
+	#671 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1461
+	#672 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1462
+	#673 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1463
+	#674 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1464
+	#675 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1465
+	#676 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1466
+	#677 carriage was sent to the result queue from stack #43.
+
+-----------------------------
+
+Operation 1467
+	#678 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1468
+	#679 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1469
+	#680 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1470
+	#681 carriage was sent to the result queue from stack #21.
+
+-----------------------------
+
+Operation 1471
+	#682 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1472
+	#683 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1473
+	#684 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1474
+	#685 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1475
+	#686 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1476
+	#687 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1477
+	#688 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1478
+	#689 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1479
+	#690 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1480
+	#691 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1481
+	#692 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1482
+	#693 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1483
+	#694 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1484
+	#695 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1485
+	#696 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1486
+	#697 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1487
+	#698 carriage was sent to the result queue from stack #3.
+
+-----------------------------
+
+Operation 1488
+	#699 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1489
+	#700 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1490
+	#701 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1491
+	#702 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1492
+	#703 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1493
+	#704 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1494
+	#705 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1495
+	#706 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1496
+	#707 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1497
+	#708 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1498
+	#709 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1499
+	#710 carriage was sent to the result queue from stack #38.
+
+-----------------------------
+
+Operation 1500
+	#711 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1501
+	#712 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1502
+	#713 carriage was sent to the result queue from stack #45.
+
+-----------------------------
+
+Operation 1503
+	#714 carriage was sent to the result queue from stack #9.
+
+-----------------------------
+
+Operation 1504
+	#715 carriage was sent to the result queue from stack #16.
+
+-----------------------------
+
+Operation 1505
+	#716 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1506
+	#717 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1507
+	#718 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1508
+	#719 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1509
+	#720 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1510
+	#721 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1511
+	#722 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1512
+	#723 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1513
+	#724 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1514
+	#725 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1515
+	#726 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1516
+	#727 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1517
+	#728 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1518
+	#729 carriage was sent to the result queue from stack #45.
+
+-----------------------------
+
+Operation 1519
+	#730 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1520
+	#731 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1521
+	#732 carriage was sent to the result queue from stack #12.
+
+-----------------------------
+
+Operation 1522
+	#733 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1523
+	#734 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1524
+	#735 carriage was sent to the result queue from stack #25.
+
+-----------------------------
+
+Operation 1525
+	#736 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1526
+	#737 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1527
+	#738 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1528
+	#739 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1529
+	#740 carriage was sent to the result queue from stack #43.
+
+-----------------------------
+
+Operation 1530
+	#741 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1531
+	#742 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1532
+	#743 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1533
+	#744 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1534
+	#745 carriage was sent to the result queue from stack #44.
+
+-----------------------------
+
+Operation 1535
+	#746 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1536
+	#747 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1537
+	#748 carriage was sent to the result queue from stack #40.
+
+-----------------------------
+
+Operation 1538
+	#749 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1539
+	#750 carriage was sent to the result queue from stack #35.
+
+-----------------------------
+
+Operation 1540
+	#751 carriage was sent to the result queue from stack #17.
+
+-----------------------------
+
+Operation 1541
+	#752 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1542
+	#753 carriage was sent to the result queue from stack #45.
+
+-----------------------------
+
+Operation 1543
+	#754 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1544
+	#755 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1545
+	#756 carriage was sent to the result queue from stack #46.
+
+-----------------------------
+
+Operation 1546
+	#757 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1547
+	#758 carriage was sent to the result queue from stack #20.
+
+-----------------------------
+
+Operation 1548
+	#759 carriage was sent to the result queue from stack #11.
+
+-----------------------------
+
+Operation 1549
+	#760 carriage was sent to the result queue from stack #46.
+
+-----------------------------
+
+Operation 1550
+	#761 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1551
+	#762 carriage was sent to the result queue from stack #43.
+
+-----------------------------
+
+Operation 1552
+	#763 carriage was sent to the result queue from stack #32.
+
+-----------------------------
+
+Operation 1553
+	#764 carriage was sent to the result queue from stack #23.
+
+-----------------------------
+
+Operation 1554
+	#765 carriage was sent to the result queue from stack #36.
+
+-----------------------------
+
+Operation 1555
+	#766 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1556
+	#767 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1557
+	#768 carriage was sent to the result queue from stack #30.
+
+-----------------------------
+
+Operation 1558
+	#769 carriage was sent to the result queue from stack #13.
+
+-----------------------------
+
+Operation 1559
+	#770 carriage was sent to the result queue from stack #14.
+
+-----------------------------
+
+Operation 1560
+	#771 carriage was sent to the result queue from stack #41.
+
+-----------------------------
+
+Operation 1561
+	#772 carriage was sent to the result queue from stack #43.
+
+-----------------------------
+
+Operation 1562
+	#773 carriage was sent to the result queue from stack #47.
+
+-----------------------------
+
+Operation 1563
+	#774 carriage was sent to the result queue from stack #45.
+
+-----------------------------
+
+Operation 1564
+	#775 carriage was sent to the result queue from stack #18.
+
+-----------------------------
+
+Operation 1565
+	#776 carriage was sent to the result queue from stack #27.
+
+-----------------------------
+
+Operation 1566
+	#777 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1567
+	#778 carriage was sent to the result queue from stack #34.
+
+-----------------------------
+
+Operation 1568
+	#779 carriage was sent to the result queue from stack #46.
+
+-----------------------------
+
+Operation 1569
+	#780 carriage was sent to the result queue from stack #42.
+
+-----------------------------
+
+Operation 1570
+	#781 carriage was sent to the result queue from stack #22.
+
+-----------------------------
+
+Operation 1571
+	#782 carriage was sent to the result queue from stack #37.
+
+-----------------------------
+
+Operation 1572
+	#783 carriage was sent to the result queue from stack #28.
+
+-----------------------------
+
+Operation 1573
+	#784 carriage was sent to the result queue from stack #15.
+
+-----------------------------
+
+Operation 1574
+	#785 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1575
+	#786 carriage was sent to the result queue from stack #29.
+
+-----------------------------
+
+Operation 1576
+	#787 carriage was sent to the result queue from stack #19.
+
+-----------------------------
+
+Operation 1577
+	#788 carriage was sent to the result queue from stack #33.
+
+-----------------------------
+
+Operation 1578
+	#789 carriage was sent to the result queue from stack #47.
+
+-----------------------------
+
+Operation 1579
+	#790 carriage was sent to the result queue from stack #31.
+
+-----------------------------
+
+Operation 1580
+	#791 carriage was sent to the result queue from stack #24.
+
+-----------------------------
+
+Operation 1581
+	#792 carriage was sent to the result queue from stack #39.
+
+-----------------------------
+
+Operation 1582
+	#793 carriage was sent to the result queue from stack #47.
+
+Direction: <----
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 773 774 775 776 777 778 779 780 781 782 783 784 785 786 787 788 789 790 791 792 793 
+-----------------------------
+Sorting finished.
+47 stack(s) used.
+1582 operations executed.
+Press enter to quit.
+>
