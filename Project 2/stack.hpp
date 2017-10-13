@@ -6,7 +6,7 @@ template <typename dataType>
 struct node{
     dataType data;
     node *next;
-    node(dataType data, node *next = nullptr);
+    node(const dataType& data, node *next = nullptr):data(data), next(next){}
 };
 
 template <typename dataType>
@@ -17,6 +17,7 @@ class stack{
 
   public:
     stack() : head(nullptr), size(0) {}
+    stack(const stack<dataType>& stackIn): head(nullptr), size(0) {}
     ~stack(){
         node<dataType> *temp = head;
         while(size--){
@@ -67,7 +68,7 @@ class stack{
         }
     }
 
-    unsigned size(){
+    unsigned getSize(){
         return size;
     }
 

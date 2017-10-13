@@ -13,11 +13,12 @@ private:
     
 public:
     queue():head(0), rear(0), size(0){}
+    queue(const queue<dataType>& queueIn): head(0), rear(0), size(0){}
     bool push(const dataType& dataIn){
         if(size != MAX_QUEUE_SIZE){
             ++size;
             storage[++head] = dataIn; 
-            return true
+            return true;
         }
         return false;
     }
@@ -33,13 +34,13 @@ public:
             return storage[rear];
         }
         else{
-            throw std::string("Error: Trying to get top from an empty stack.");
+            throw std::string("Error: Trying to get front from an empty queue.");
         }
     }
     bool isEmpty(){
         return size == 0;
     }
-    unsigned size(){
+    unsigned getSize(){
         return size;
     }
 };
