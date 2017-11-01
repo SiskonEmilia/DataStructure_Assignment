@@ -23,7 +23,7 @@ int main() {
 			fuel = variable.poisson(6);
 			Plane current_plane(flight_number++, current_time, arriving, fuel);
 			if(fuel <= small_airport.waitingTime()){
-				if(!Emergency) {
+				if(!enmergency) {
 					enmergency = true;
 					small_airport.emergency_land();
 					cout << "<---Emergency situations: Plane " << flight_number - 1 << " has no fuel to wait, land immediately!--->" << endl;
