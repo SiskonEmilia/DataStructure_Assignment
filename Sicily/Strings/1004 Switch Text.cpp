@@ -28,3 +28,4 @@ int main() {
     cout << strs[strs.size() - 1] << endl;
   }
 }
+
