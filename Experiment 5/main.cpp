@@ -16,6 +16,7 @@ void Append() {
 }
 
 void Interchange() {
+  myTree.interChange();
   cout << "Succeed!" << endl
     << "Press enter to return to menu." << endl;
   getchar();
