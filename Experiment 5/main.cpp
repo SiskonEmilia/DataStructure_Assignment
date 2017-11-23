@@ -16,10 +16,17 @@ void Append() {
 }
 
 void Interchange() {
+<<<<<<< HEAD
 	myTree.interChange();
 	cout << "Succeed!" << endl
 		<< "Press enter to return to menu." << endl;
 	getchar();
+=======
+  myTree.interChange();
+  cout << "Succeed!" << endl
+    << "Press enter to return to menu." << endl;
+  getchar();
+>>>>>>> 935c65811446b7edfdc2fbc6613233f501e05660
 }
 
 void Print(unsigned position = 0) {
