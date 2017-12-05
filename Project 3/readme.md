@@ -24,8 +24,14 @@ After doing that, you're supposed to be able to enjoy playing by visiting http:/
 ### Front-end
 
 1. Use HTML+CSS3 to print the family tree.
-1. Use jQuery with content menu plugin to deal with the intereacting with users.
+1. Use jQuery with plugins to deal with the intereacting with users.
 1. Use AJAX to communicate with server-end.
+
+#### Plugin list
+
+1. contentMenu
+1. font-awesome
+1. remodal
 
 ### Server-end
 
