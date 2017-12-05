@@ -4,6 +4,20 @@
 #include <vector>
 using namespace std;
 
+struct Detail {
+  string firstName;
+  string lastName;
+  string birthDay;
+  string deadDay;
+  bool isMale;
+
+  // Constructors
+  Detail(const Detail& data) : firstName(data.firstName), lastName(data.lastName), birthDay(data.birthDay),
+    deadDay(data.deadDay), isMale(data.isMale) {}
+  Detail(const string& firstName, const string& lastName, const string& birthDay, const string& deadDay, bool isMale) :
+    firstName(firstName), lastName(lastName), birthDay(birthDay), deadDay(deadDay), isMale(isMale) {} 
+};
+
 struct Node {
   static unsigned count;
   const unsigned id;
@@ -17,22 +31,6 @@ struct Node {
     detail(nodeIn.detail) {}
 
   Node(const Detail& detail, Node* parent = nullptr) : id(count++), parent(parent), detail(detail) {}
-};
-
-unsigned Node::count = 0;
-
-struct Detail {
-  string firstName;
-  string lastName;
-  string birthDay;
-  string deadDay;
-  bool isMale;
-
-  // Constructors
-  Detail(const Detail& data) : firstName(data.firstName), lastName(data.lastName), birthDay(data.birthDay),
-    deadDay(data.deadDay), isMale(data.isMale) {}
-  Detail(const string& firstName, const string& lastName, const string& birthDay, const string& deadDay, bool isMale) :
-    firstName(firstName), lastName(lastName), birthDay(birthDay), deadDay(deadDay), isMale(isMale) {} 
 };
 
 struct toReturn {

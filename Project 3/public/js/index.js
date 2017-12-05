@@ -1,25 +1,58 @@
 $(function () {
   const OL_Action_Root = "http://localhost:8888";
+  var options = {"closeOnOutsideClick": true};
+  var tree = $('.tree');
+  var dialogMsg = $('[data-remodal-id=modalMsg]').remodal(options);
+  var dialogForm = $('[data-remodal-id=modalForm]').remodal(options);
+  var Msg = $('#msg')[0]; 
+  var genderLabel = $('.gender');
+
+  var firstName = $('firstName');
+  var lastName = $('lastName');
+  var birthDay = $('birthDay');
+  var deadDay = $('deadDay');
+
+  genderLabel.click(function() {
+    if (this.id == 'male')
+      this.id = 'female';
+    else
+      this.id = 'male';
+  });
 
   $.contextMenu ({
     selector: 'span',
     callback: function (key, options) {
       switch(key) {
         case 'addParent':
-          getInfo();
-          Req_ajax();
+          var data = {
+            "func": 0,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'addBrother':
-          getInfo();
+          var data = {
+            "func": 2,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'addCouple':
-          getInfo();
+          var data = {
+            "func": 1,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'addChild':
-          getInfo();
+          var data = {
+            "func": 3,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'edit':
@@ -27,11 +60,19 @@ $(function () {
         break;
         
         case 'delete':
-        
+          var data = {
+            "func": 4,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'detail':
-        
+          var data = {
+            "func": 5,
+            "id": this[0].id
+          };
+          Req_ajax(data);
         break;
         
         case 'quit':
@@ -72,7 +113,8 @@ $(function () {
   }
 
   function warning(msg) {
-
+    Msg.textContent = msg;
+    dialogMsg.open();
   }
 
   function Req_ajax(dataIn, jump) {
@@ -84,17 +126,15 @@ $(function () {
       timeout: 5000,
       type: "post",
       success: function (data) {
-        /*if (data.isError)
+        if (data.isError) {
           warning(data.data);
-        else if (jump === undefined)
-          $('.tree').innerHTML = data.data;
-        else
-          window.location.href = data.data;*/
-        if (data.isError)
-          console.log('wtf?');
-        else
-          console.log(data.data);
-        console.log('!');
+        }
+        else if (jump == undefined) {
+          tree[0].innerHTML = data.data;
+        }
+        else {
+
+        }
       },
       error: function (jqXHR, textStatus, errorThrown) {
         console.log(jqXHR);

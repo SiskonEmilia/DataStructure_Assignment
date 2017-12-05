@@ -1,4 +1,5 @@
 var fs = require('fs');
+var famliyTree = require('./build/Release/familyTree');
 var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
