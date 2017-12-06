@@ -23,7 +23,10 @@ public:
 
 	~BTree() {
 		delete[] _storage;
+<<<<<<< HEAD
 		delete[] _is;
+=======
+>>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
 	}
 
 	bool empty() const {
