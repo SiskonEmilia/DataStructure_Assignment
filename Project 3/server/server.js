@@ -1,5 +1,5 @@
 var fs = require('fs');
-var famliyTree = require('./build/Release/familyTree');
+var familyTree = require('./build/Release/familyTree');
 var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
@@ -25,12 +25,48 @@ app.post('/func', urlencodedParser, function(req, res) {
   console.log('Data received: ');
   console.log(data);
   
-  res.status(200)
-    .type('json')
-    .json({
-      isError: false,
-      data: "success!"
-    }).end();
+  switch(data.func) {
+    case '0':case '1':
+    case '2':case '3':
+      var detail = JSON.parse(data.detail);
+      var result = familyTree(data.func, detail['firstName'],
+        detail['lastName'], detail['birthDay'], detail['deadDay'],
+        detail['isMale'], data.id);
+      console.log('Finished!');
+      console.log(result);
+      res.status(200).type('json').json(result).end();
+    break;
+    case '4':
+      var result = familyTree(data.func, data.id);
+      console.log('Finished!');
+      console.log(result);
+      res.status(200).type('json').json(result).end();
+    break;
+
+    case '5':
+      var result = familyTree(data.func, data.id);
+      console.log('Finished!');
+      console.log(result);
+      res.status(200).type('json').json(result).end();
+    break;
+
+    case '6':
+      var result = familyTree(data.func);
+      console.log('Finished!');
+      console.log(result);
+      res.status(200).type('json').json(result).end();
+    break;
+
+    case '7':
+      var detail = JSON.parse(data.detail);
+      var result = familyTree(data.func, detail['firstName'],
+        detail['lastName'], detail['birthDay'], detail['deadDay'],
+        detail['isMale'], data.id);
+      console.log('Finished!');
+      console.log(result);
+      res.status(200).type('json').json(result).end();
+    break;
+  }
   
 });
 

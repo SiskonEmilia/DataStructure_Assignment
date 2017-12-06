@@ -16,11 +16,18 @@ struct Detail {
     deadDay(data.deadDay), isMale(data.isMale) {}
   Detail(const string& firstName, const string& lastName, const string& birthDay, const string& deadDay, bool isMale) :
     firstName(firstName), lastName(lastName), birthDay(birthDay), deadDay(deadDay), isMale(isMale) {} 
+  Detail& operator=(const Detail& detailIn) {
+    firstName = detailIn.firstName;
+    lastName = detailIn.lastName;
+    birthDay = detailIn.birthDay;
+    deadDay = detailIn.deadDay;
+    isMale = detailIn.isMale;
+  }
 };
 
 struct Node {
   static unsigned count;
-  const unsigned id;
+  unsigned id;
   Detail detail;
   Node *parent;
   vector<Node> couple;
@@ -29,7 +36,13 @@ struct Node {
   // Constructors
   Node(const Node& nodeIn) : parent(nodeIn.parent), couple(nodeIn.couple), children(nodeIn.children), id(nodeIn.id),
     detail(nodeIn.detail) {}
-
+  Node& operator=(const Node& nodeIn) {
+    parent = nodeIn.parent;
+    couple = nodeIn.couple;
+    children = nodeIn.children;
+    detail = nodeIn.detail;
+    id = nodeIn.id;
+  }
   Node(const Detail& detail, Node* parent = nullptr) : id(count++), parent(parent), detail(detail) {}
 };
 
@@ -61,6 +74,7 @@ public:
   // 使用时需要try & catch *ZJ*
 
   string printTree(); // 将树打印为字符串，须符合规定的格式 *WY*
+  string nodeToString(Node &root);
 
 private:
   Node *root; // Notice: root can't be nullptr!

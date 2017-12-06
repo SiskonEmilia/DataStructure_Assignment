@@ -4,6 +4,11 @@
     "xlocale": "cpp",
     "xlocmon": "cpp",
     "xlocnum": "cpp",
-    "xloctime": "cpp"
+    "xloctime": "cpp",
+    "string": "cpp",
+    "deque": "cpp",
+    "initializer_list": "cpp",
+    "vector": "cpp",
+    "xutility": "cpp"
   }
 }

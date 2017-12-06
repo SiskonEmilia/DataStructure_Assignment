@@ -22,45 +22,14 @@
 	<div class="tree">
 		<ul>  
 			<li>
-				<span>Parent</span>
-				<ul>
-					<li>
-						<span>Child</span>
-						<ul>
-							<li>
-								<span>Grand Child</span>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<span>Sub Parent 1</span><span>Sub Parent 2</span>
-						<ul>
-							<li><span>Grand Child</span></li>
-							<li>
-								<span>Grand Child</span>
-								<ul>
-									<li>
-										<span>Great Grand Child</span>
-									</li>
-									<li>
-										<span>Great Grand Child</span>
-									</li>
-									<li>
-										<span>Great Grand Child</span>
-									</li>
-								</ul>
-							</li>
-							<li><span>Grand Child</span></li>
-						</ul>
-					</li>
-				</ul>
+				<span id="0" class="Male">Me</span>
 			</li>
 		</ul>
 	</div>
 
 	<div class="remodal" data-remodal-id="modalMsg">
 		<button data-remodal-action="close" class="remodal-close"></button>
-		<h1>Notice</h1>
+		<h1 id="noticeTitle">Notice</h1>
 		<p id="msg">
 			You'd better not refresh this page.
 		</p>
@@ -74,14 +43,14 @@
 			<form id="detailForm">
 				
 				<span class="input">
-						<input class="input__field" type="text" id="firstName" spellcheck="false" />
+						<input class="input__field" type="text" id="firstName" spellcheck="false" maxlength="8"/>
 						<label class="input__label" for="firstName">
 							<span class="input__label-content">Firstname:</span>
 						</label>
 				</span>
 				
 				<span class="input">
-						<input class="input__field" type="text" id="lastName" spellcheck="false" />
+						<input class="input__field" type="text" id="lastName" spellcheck="false" maxlength="8" />
 						<label class="input__label" for="lastName">
 							<span class="input__label-content">Lastname:</span>
 						</label>

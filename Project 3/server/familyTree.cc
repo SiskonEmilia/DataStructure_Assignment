@@ -1,9 +1,14 @@
 // familyTree.cc
 #include "familyTree.hpp"
+#include "familyTree.cpp"
+#include <iostream>
+#include <string>
 #include <node.h>
 #include <v8.h>
 
 familyTree root;
+using std::cout;
+using std::string;
 
 namespace demo {
 
@@ -26,14 +31,14 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         if (args.Length() != 7)
             break;
 
-        String::Utf8Value firstName_0(args[1]->ToString());
-        String::Utf8Value lastName_0(args[2]->ToString());
-        String::Utf8Value birthDay_0(args[3]->ToString());
-        String::Utf8Value deadDay_0(args[4]->ToString());
+        String::Utf8Value firstName_0(args[1]);
+        String::Utf8Value lastName_0(args[2]);
+        String::Utf8Value birthDay_0(args[3]);
+        String::Utf8Value deadDay_0(args[4]);
         Local<Boolean> isMale_0 = Local<Boolean>::Cast(args[5]);
         int id_0 = args[6]->Int32Value();
         Detail detail(*firstName_0, *lastName_0, *birthDay_0, *deadDay_0, args[5]->BooleanValue());
-
+        
         toReturn temp = root.addToParent(detail, id_0);
         Local<String> str = v8::String::NewFromUtf8(isolate, temp.data.c_str());
         Local<Boolean> flag = v8::Boolean::New(isolate, temp.isError);
@@ -44,10 +49,10 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         if (args.Length() != 7)
             break;
 
-        String::Utf8Value firstName_1(args[1]->ToString());
-        String::Utf8Value lastName_1(args[2]->ToString());
-        String::Utf8Value birthDay_1(args[3]->ToString());
-        String::Utf8Value deadDay_1(args[4]->ToString());
+        String::Utf8Value firstName_1(args[1]);
+        String::Utf8Value lastName_1(args[2]);
+        String::Utf8Value birthDay_1(args[3]);
+        String::Utf8Value deadDay_1(args[4]);
         Local<Boolean> isMale_1 = Local<Boolean>::Cast(args[5]);
         int id_1 = args[6]->Int32Value();
         Detail detail(*firstName_1, *lastName_1, *birthDay_1, *deadDay_1, args[5]->BooleanValue());
@@ -62,10 +67,10 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         if (args.Length() != 7)
             break;
 
-        String::Utf8Value firstName_2(args[1]->ToString());
-        String::Utf8Value lastName_2(args[2]->ToString());
-        String::Utf8Value birthDay_2(args[3]->ToString());
-        String::Utf8Value deadDay_2(args[4]->ToString());
+        String::Utf8Value firstName_2(args[1]);
+        String::Utf8Value lastName_2(args[2]);
+        String::Utf8Value birthDay_2(args[3]);
+        String::Utf8Value deadDay_2(args[4]);
         Local<Boolean> isMale_2 = Local<Boolean>::Cast(args[5]);
         int id_2 = args[6]->Int32Value();
         Detail detail(*firstName_2, *lastName_2, *birthDay_2, *deadDay_2, args[5]->BooleanValue());
@@ -80,10 +85,10 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         if (args.Length() != 7)
             break;
 
-        String::Utf8Value firstName_3(args[1]->ToString());
-        String::Utf8Value lastName_3(args[2]->ToString());
-        String::Utf8Value birthDay_3(args[3]->ToString());
-        String::Utf8Value deadDay_3(args[4]->ToString());
+        String::Utf8Value firstName_3(args[1]);
+        String::Utf8Value lastName_3(args[2]);
+        String::Utf8Value birthDay_3(args[3]);
+        String::Utf8Value deadDay_3(args[4]);
         Local<Boolean> isMale_3 = Local<Boolean>::Cast(args[5]);
         int id_3 = args[6]->Int32Value();
         Detail detail(*firstName_3, *lastName_3, *birthDay_3, *deadDay_3, args[5]->BooleanValue());
@@ -115,7 +120,7 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         obj->Set(String::NewFromUtf8(isolate, "isMale"), isMale_4);
         break;
     } case 5/* rm */: {
-        if (args.Length() != 2 || !args[1]->IsUint32())
+        if (args.Length() != 2)
             break;
 
         unsigned int id_5 = args[1]->Uint32Value();
@@ -125,7 +130,31 @@ void CreateObject(const FunctionCallbackInfo<Value> &args) {
         obj->Set(String::NewFromUtf8(isolate, "isError"), flag_5);
         obj->Set(String::NewFromUtf8(isolate, "data"), str_5);
         break;
-    } default:
+    } case 6/* refresh */: {
+        cout << "w";
+        Local<String> str_6 = v8::String::NewFromUtf8(isolate, root.printTree().c_str());
+        obj->Set(String::NewFromUtf8(isolate, "data"), str_6);
+    } case 7/* set */: {
+        if (args.Length() != 7)
+            break;
+        
+        int id_7 = args[6]->Int32Value();
+        Node& temp_7 = root.getNode(id_7);
+
+        
+        String::Utf8Value firstName_7(args[1]);
+        String::Utf8Value lastName_7(args[2]);
+        String::Utf8Value birthDay_7(args[3]);
+        String::Utf8Value deadDay_7(args[4]);
+        
+        Detail detail(*firstName_7, *lastName_7, *birthDay_7, *deadDay_7, args[5]->BooleanValue());
+        temp_7.detail = detail;
+        
+        Local<String> str_7 = v8::String::NewFromUtf8(isolate, root.printTree().c_str());
+        obj->Set(String::NewFromUtf8(isolate, "data"), str_7);
+    } 
+    
+    default:
         break;
     }
 
