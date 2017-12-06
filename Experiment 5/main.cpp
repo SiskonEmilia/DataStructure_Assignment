@@ -17,21 +17,30 @@ void Append() {
 
 void Interchange() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
+=======
 >>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
 	myTree.interChange();
 	cout << "Succeed!" << endl
 		<< "Press enter to return to menu." << endl;
 	getchar();
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
 =======
   myTree.interChange();
   cout << "Succeed!" << endl
     << "Press enter to return to menu." << endl;
   getchar();
 >>>>>>> 935c65811446b7edfdc2fbc6613233f501e05660
+<<<<<<< HEAD
+>>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
+=======
 >>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
 }
 
@@ -93,7 +102,6 @@ int main() {
 			<< "e. Get an element through the id of node." << endl
 			<< "q. Quit." << endl
 			<< "Please type in the mark of function you want to use: " << endl;
-<<<<<<< HEAD
 
 		cin >> input;
 		getchar();
@@ -128,6 +136,7 @@ int main() {
 			return 0;
 			break;
 
+<<<<<<< HEAD
 =======
 
 		cin >> input;
@@ -163,6 +172,8 @@ int main() {
 			return 0;
 			break;
 
+>>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
+=======
 >>>>>>> 4ebc7e3266e4ab183be55ea476de384f0d3f1bcb
 		default:
 			cout << "Invalid input!"
