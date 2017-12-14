@@ -114,10 +114,10 @@ public:
 
         for (int i = 0; i < size ; ++i) {
             if (path[i] != -1)
-                cout << index << "->" << i << ":"
+                cout << nodes[index] << "->" << nodes[i] << ":"
                     << path[i] << endl;
             else {
-                cout << "There's no valid path from " << index << " to " << i << endl;
+                cout << "There's no valid path from " << nodes[index] << " to " << nodes[i] << endl;
             }
         }
         
