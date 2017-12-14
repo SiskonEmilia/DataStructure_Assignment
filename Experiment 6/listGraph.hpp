@@ -87,19 +87,66 @@ public:
     }
 
     void shortest(const int &index) {
+        if (index >= size || index < 0) {
+            cout << "Invalid input.";
+            return;
+        }
+
+        for (int i = 0; i < MAX_N; ++i)
+            isVisited[i] = false;
+        isVisited[index] = true;
+
         int *path = new int[size];
+        int newIndex;
         for (int i = 0; i < size; ++i) {
             path[i] = -1;
         }
+        path[index] = 0;
 
         for (auto i : graph[index]) {
             path[i.first] = i.second;
         }
 
-        for (int i = 0; i < size; ++i) {
-            
+        while ((newIndex = findMin(path)) != -1) {
+            refreshPath(path, newIndex);
         }
+
+
+        for (int i = 0; i < size ; ++i) {
+            if (path[i] != -1)
+                cout << index << "->" << i << ":"
+                    << path[i] << endl;
+            else {
+                cout << "There's no valid path from " << index << " to " << i << endl;
+            }
+        }
+        
         delete []path;
+    }
+
+    int findMin(int *path) {
+        int minDistance = -1, index = -1;
+        for (int i = 0; i < size; ++i) {
+            if (!isVisited[i] && path[i] != -1) {
+                if (minDistance == -1 || path[i] < minDistance) {
+                    minDistance = path[i];
+                    index = i;
+                }
+            }
+        }
+        if (index != -1)
+            isVisited[index] = true;
+        return index;
+    }
+
+    void refreshPath(int *path, int newVertex) {
+        int temp;
+        for (auto edge : graph[newVertex]) {
+            temp = path[newVertex] + edge.second;
+            if (path[edge.first] > temp || path[edge.first] == -1) {
+                path[edge.first] = temp;
+            }
+        }
     }
 
 private:

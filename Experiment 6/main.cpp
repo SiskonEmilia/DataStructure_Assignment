@@ -107,12 +107,20 @@ void bfs (int which) {
 }
 
 void dijkstra (int which) {
+    int index;
+    cout << "Please type in the index of the starting vertex:" << endl;
+    cin >> index;
+    getchar();
     switch(which) {
         case 1:
+            listgraph.shortest(index);
         break;
         case 2:
+            matrixgraph.shortest(index);
         break;
     }
+    cout << "\nPress enter to return to menu." << endl;
+    getchar();
 }
 
 
