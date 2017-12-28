@@ -12,6 +12,16 @@
     "xutility": "cpp",
     "iostream": "cpp",
     "memory": "cpp",
-    "utility": "cpp"
+    "utility": "cpp",
+    "string_view": "cpp",
+    "__split_buffer": "cpp",
+    "bitset": "cpp",
+    "iterator": "cpp",
+    "list": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "stack": "cpp",
+    "iosfwd": "cpp",
+    "__bit_reference": "cpp"
   }
 }
