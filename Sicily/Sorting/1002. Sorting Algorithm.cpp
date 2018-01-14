@@ -21,9 +21,11 @@ int main() {
 
     sort(data, data + length);
 
-    for (int t = 0; t < length; t += gap) {
-      printf("%d ", data[t]);
+    printf("%d", data[0]);
+    for (int t = gap; t < length; t += gap) {
+      printf(" %d", data[t]);
     }
+    printf("\n");
   }
 
   return 0;
